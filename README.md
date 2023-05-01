@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohilp25&show_icons=true&locale=en" alt="sohilp25" /></p>
 
+[![An image of @sohilp25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohilp25)](https://holopin.io/@sohilp25)
