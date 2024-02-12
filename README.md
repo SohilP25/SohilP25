@@ -27,10 +27,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👀 I’m interested in DSA & Web Development.  
+- 👀 I’m interested in AI/ML & Web Development.  
   
 
-- 🌱 I’m currently Improving DSA & Development.  
+- 🌱 I’m currently Improving AI/ML skills.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
